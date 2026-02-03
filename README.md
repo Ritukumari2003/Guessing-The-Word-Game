@@ -4,13 +4,13 @@
 
 ## Description
 
-This is a simple Python console-based game where the player guesses a secret word. The word is chosen randomly based on the selected difficulty level. The game provides hints, keeps track of attempts, and includes a scoring system with a session-based leaderboard.
+This is a simple Python console-based game where the player guesses a secret word. The word is chosen randomly based on the selected difficulty level. The game provides hints, keeps track of attempts and includes a scoring system with a session-based leaderboard.
 
 ---
 
 ## Features
 
-* Easy, Medium, and Hard difficulty levels
+* Easy, Medium and Hard difficulty levels
 * Hint system for guessed letters
 * Score calculation based on attempts
 * Highest score tracking during the session
