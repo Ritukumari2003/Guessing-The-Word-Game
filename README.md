@@ -1,5 +1,3 @@
----
-
 ## Password Guessing Game
 
 ### Description
@@ -8,7 +6,7 @@ This is a simple Python console-based game where the player guesses a secret wor
 
 ---
 
-## Features
+### Features
 
 * Easy, Medium and Hard difficulty levels
 * Hint system for guessed letters
@@ -18,7 +16,7 @@ This is a simple Python console-based game where the player guesses a secret wor
 
 ---
 
-## How to Run
+### How to Run
 
 1. Make sure Python is installed.
 2. Download or clone the repository.
@@ -30,20 +28,20 @@ This is a simple Python console-based game where the player guesses a secret wor
 
 ---
 
-## Technologies Used
+### Technologies Used
 
 * Python
 * Random module
 
 ---
 
-## Author
+### Author
 
 Ritu Kumari
 
 ---
 
-## License
+### License
 
 This project is created for learning and practice purposes.
 
