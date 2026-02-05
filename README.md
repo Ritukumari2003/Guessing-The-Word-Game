@@ -1,8 +1,8 @@
 ---
 
-# Password Guessing Game
+## Password Guessing Game
 
-## Description
+### Description
 
 This is a simple Python console-based game where the player guesses a secret word. The word is chosen randomly based on the selected difficulty level. The game provides hints, keeps track of attempts and includes a scoring system with a session-based leaderboard.
 
