@@ -1,4 +1,4 @@
-## Password Guessing Game
+## Word Guessing Game
 
 ### Description
 
